@@ -1,16 +1,15 @@
-## Hi there 👋
+# Oi, eu sou o Samuel 👋
 
-<!--
-**xSuui/xSuui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor **Web e de Jogos** em São Paulo. Crio sites e sistemas para pequenos negócios, do layout ao deploy, e desenvolvo jogos em Unity, Unreal e Godot.
 
-Here are some ideas to get you started:
+- 💅 **Projeto atual:** sistema de agendamento online para salão de beleza, em uso por cliente real: página pública, sinal por Pix, painel com reservas em tempo real e balanço com gráficos (Next.js, TypeScript, Tailwind, Supabase, Vercel).
+- 🎮 **Nos jogos:** formado em Jogos Digitais (FMU), desenvolvendo um metroidvania autoral em Unity.
+- 🔎 **Procurando:** vaga de desenvolvedor front-end / web ou de jogos (júnior).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+**Web:** Next.js · React · TypeScript · JavaScript · Tailwind CSS · Supabase · PostgreSQL · Vercel
+**Jogos:** Unity · Unreal Engine 5 · Godot · C# · C++ · GDScript · Pixel Art
+**Outros:** Python · Git · ffmpeg
+
+### Links
+[Portfólio](https://srcs-portifolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/samuel-rogerio/) · [itch.io](https://xsuui.itch.io)
